@@ -3,26 +3,6 @@
   "servers": [
     {
       "country": "us",
-      "address": "ovh-ex-ca-1.northghost.com",
-      "scheme": "https",
-      "port": 443,
-      "priority": 1000,
-      "title": "US Server",
-      "username": "{id}.h783ohaw09jdf0",
-      "password": "{id}.h78239hd"
-    },
-    {
-      "country": "us",
-      "address": "ovh-ex-ca-2.northghost.com",
-      "scheme": "https",
-      "port": 443,
-      "priority": 1000,
-      "title": "US Server",
-      "username": "{id}.h783ohaw09jdf0",
-      "password": "{id}.h78239hd"
-    },
-    {
-      "country": "us",
       "address": "af-ex-nl-ams-4.northghost.com",
       "scheme": "https",
       "port": 443,
@@ -112,6 +92,46 @@
       "password": "{id}.h78239hd"
     },
     {
+      "country": "ca",
+      "address": "987607.biz",
+      "scheme": "https",
+      "port": 443,
+      "priority": 1000,
+      "title": "US Server",
+      "username": "{id}.h783ohaw09jdf0",
+      "password": "{id}.h78239hd"
+    },
+    {
+      "country": "ca",
+      "address": "af-ex-us-ny-1.northghost.com",
+      "scheme": "https",
+      "port": 443,
+      "priority": 1000,
+      "title": "CA Server",
+      "username": "{id}.h783ohaw09jdf0",
+      "password": "{id}.h78239hd"
+    },
+    {
+      "country": "ca",
+      "address": "ovh-ex-ca-1.northghost.com",
+      "scheme": "https",
+      "port": 443,
+      "priority": 1000,
+      "title": "US Server",
+      "username": "{id}.h783ohaw09jdf0",
+      "password": "{id}.h78239hd"
+    },
+    {
+      "country": "ca",
+      "address": "ovh-ex-ca-2.northghost.com",
+      "scheme": "https",
+      "port": 443,
+      "priority": 1000,
+      "title": "US Server",
+      "username": "{id}.h783ohaw09jdf0",
+      "password": "{id}.h78239hd"
+    },
+    {
       "country": "fr",
       "address": "ovh-ex-fr-1.northghost.com",
       "scheme": "https",
@@ -120,6 +140,17 @@
       "title": "UK Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
+    },
+    {
+      "country": "fr",
+      "address": "af-ex-nl-ams-2.northghost.com",
+      "scheme": "https",
+      "port": 443,
+      "priority": 1000,
+      "title": "FR Server",
+      "username": "{id}.h783ohaw09jdf0",
+      "password": "{id}.h78239hd",
+      "netflix": "true"
     },
     {
       "country": "gb",
@@ -138,27 +169,6 @@
       "port": 443,
       "priority": 100,
       "title": "UK Server",
-      "username": "{id}.h783ohaw09jdf0",
-      "password": "{id}.h78239hd"
-    },
-    {
-      "country": "fr",
-      "address": "af-ex-nl-ams-2.northghost.com",
-      "scheme": "https",
-      "port": 443,
-      "priority": 1000,
-      "title": "FR Server",
-      "username": "{id}.h783ohaw09jdf0",
-      "password": "{id}.h78239hd",
-      "netflix": "true"
-    },
-    {
-      "country": "ca",
-      "address": "af-ex-us-ny-1.northghost.com",
-      "scheme": "https",
-      "port": 443,
-      "priority": 1000,
-      "title": "CA Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
