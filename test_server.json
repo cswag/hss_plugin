@@ -7,7 +7,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 2000,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -17,7 +17,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 2000,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -27,7 +27,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 2000,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -37,7 +37,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 2000,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -47,7 +47,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 2000,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -57,7 +57,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 2000,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -67,7 +67,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 100,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -77,7 +77,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 100,
-      "title": "US East Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -87,7 +87,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 100,
-      "title": "US West Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -97,7 +97,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 100,
-      "title": "US West Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
@@ -107,7 +107,7 @@
       "scheme": "https",
       "port": 443,
       "priority": 100,
-      "title": "US West Server",
+      "title": "US Server",
       "username": "{id}.h783ohaw09jdf0",
       "password": "{id}.h78239hd"
     },
